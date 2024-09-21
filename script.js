@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
         { id: 'PW1exlnbh3s', title: 'Murder Drones Alternate Universe' },
         { id: 'caR9ouipm8o', title: 'ДРОНЫ-УБИЙЦЫ 8 СЕРИЯ: Абсолютный Конец' },
         { id: 'EOqw86OGIB0&t', title: 'ДРОНЫ-УБИЙЦЫ - Серия 7: Судный День' }
-        { id: 'a9bZ21muRf0', title: '😱 Майнкрафт, но Мы Попали В ГЕНШИН [Сюжет: Мультиплеер] + Фиксплей' }
     ];
 
     videos.forEach(video => {
